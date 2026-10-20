@@ -1,4 +1,4 @@
-# Hardware-networks hi guys 
+# Hardware-networks 
 
 ## Hardware & Networks Artificial Intelligence Project
 
