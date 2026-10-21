@@ -42,7 +42,9 @@ Beginners with basic computer literacy. No prior experience assembling a compute
 ```text
 .
 ├── README.md
-
+├── content
+├	├──how-data-travels.md
+├	├──module-outline.md
 ```
 
 ## Academic integrity note
