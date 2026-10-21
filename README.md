@@ -1,29 +1,49 @@
-# Hardware-networks 
+# Hardware and Network — Stage 1 Markdown V1.0
 
-## Hardware & Networks Artificial Intelligence Project
+> **Team:** Whoisosy
+> **Module:** Hardware and Network  
+> **Members / GitHub usernames:**
+	-Sat Aruzhan / Sataruzhan
+	-蔡宗震 / richie-maynard
+	-Weizel Aurelius / weizelaurelius
+	-Seitenaly Akerke / torodinqw
+	-Raul Mammadzada / verrby
+	-ATANTAYEV SULTAN / Sultan456-oss
+	-Pernebay Akhmet / ahmetpernebai
+> **Snapshot date:** 21-10-2026
+> **Latest commit:** -
 
-## 👥 Team Members
-* **Member 1**: [First Name Last Name] — *Role / Responsibilities (e.g., Data Preprocessing & Documentation)*
-* **Member 2**: [First Name Last Name] — *Role / Responsibilities (e.g., Model Architecture & Training)*
-* **Member 3**: [First Name Last Name] — *Role / Responsibilities (e.g., Testing & Integration)*
+## Project purpose
+This repository develops beginner-friendly learning content about computer hardware and computer networks. The content is intended to become the shared source for a study guide, presentation slides, and a short video tutorial.
 
-## 📚 Module & Course Information
-* **Course**: Hardware & Networks (AI Project)
-* **Module**: [Module Name / Code]
-* **Instructor**: [Teacher's Name]
+## Intended learners
+Beginners with basic computer literacy. No prior experience assembling a computer or configuring a network is assumed.
 
-## 🎯 Project Overview
-This repository contains our team project focused on applying Artificial Intelligence within hardware and networking contexts. The goal of this project is to develop, evaluate, and document an AI solution for [briefly describe the main problem/task here, e.g., network traffic prediction / system optimization].
+## Where to find materials
+- `content/module-outline.md` — whole-module sequence, learning outcomes, activities, and status.
+- `content/how-data-travels.md` — developed topic for Markdown V1.0.
+- `report/submission-report-template.md` — report details and repository-evidence checklist.
+- `logs/ai-use-log-template.md` — template to record significant AI assistance and verification.
+- `assets/` — supporting images or diagrams. The main topic currently uses a Markdown text diagram so it remains readable in a plain-text copy.
 
-## 🗂 Project Structure
+## Current progress
+- **Drafted:** overall module outline and one developed topic on how data travels from a computer to a website.
+- **Needs review:** technical claims, examples, source links, and accessibility for beginners.
+- **Not yet completed:** actual GitHub repository evidence, member-specific contribution evidence, peer-review record, final repository URL, commit hash, and final rendered PDF verification.
+
+## Suggested repository workflow
+1. Create a shared GitHub repository and add all team members.
+2. Copy this folder structure into the repository.
+3. Ask each member to make a substantive contribution and commit changes using their own account where practical.
+4. Review the content using `content/module-outline.md` and record the actual outcome in the submission report.
+5. Update the snapshot date and latest commit hash, then export the content PDF and package the submission.
+
+## Folder structure
 ```text
-├── README.md               # Main project documentation and overview
-├── docs/                   # Markdown documentation, guides, and meeting logs
-│   ├── references.md       # List of academic and technical references
-│   └── learning_materials.md # Study notes and resources used by the team
-├── src/                    # Source code for the AI model and utilities
-│   ├── data_loader.py      # Data loading and preprocessing scripts
-│   └── model.py            # AI model implementation
-├── notebooks/              # Jupyter notebooks for experiments and visualizations
-├── .gitignore              # Files excluded from version control
-└── requirements.txt        # Python dependencies and packages
+.
+├── README.md
+
+```
+
+## Academic integrity note
+This is a draft starter package. Team members must fact-check it, revise it in their own words, record AI assistance as required by the course rules, and be able to explain the content. Do not claim that GitHub activity, peer review, or individual contributions occurred until there is evidence.
