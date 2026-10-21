@@ -11,7 +11,7 @@
 	-ATANTAYEV SULTAN / Sultan456-oss
 	-Pernebay Akhmet / ahmetpernebai
 > **Snapshot date:** 21-10-2026
-> **Latest commit:** -
+> **Latest commit:** 1525033
 
 ## Project purpose
 This repository develops beginner-friendly learning content about computer hardware and computer networks. The content is intended to become the shared source for a study guide, presentation slides, and a short video tutorial.
