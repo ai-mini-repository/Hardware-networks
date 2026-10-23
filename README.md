@@ -4,7 +4,7 @@
 > **Module:** Hardware and Network  
 > **Members / GitHub usernames:**
 	-Sat Aruzhan / Sataruzhan
-	-蔡宗震 / richie-maynard
+	-Richie Maynard 蔡宗震 / richie-maynard
 	-Weizel Aurelius / weizelaurelius
 	-Seitenaly Akerke / torodinqw
 	-Raul Mammadzada / verrby
