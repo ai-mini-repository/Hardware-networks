@@ -6,7 +6,7 @@
 	-Sat Aruzhan / Sataruzhan
 	-Richie Maynard 蔡宗震 / richie-maynard
 	-Weizel Aurelius / weizelaurelius
-	-Seitenaly Akerke / torodinqw
+	-Seitenaly Akerke / akerkeseyt
 	-Raul Mammadzada / verrby
 	-ATANTAYEV SULTAN / Sultan456-oss
 	-Pernebay Akhmet / ahmetpernebai
