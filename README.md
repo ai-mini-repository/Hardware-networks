@@ -1,7 +1,7 @@
 # Hardware and Network — Stage 1 Markdown V1.0
 
 > **Team:** Whoisosy
-> **Module:** Hardware and Network  
+> **Module:** Hardware and Network,Behavorist AI
 > **Members / GitHub usernames:**
 	-Sat Aruzhan / Sataruzhan
 	-Richie Maynard 蔡宗震 / richie-maynard
