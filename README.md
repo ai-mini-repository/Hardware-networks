@@ -43,6 +43,7 @@ Beginners with basic computer literacy. No prior experience assembling a compute
 .
 ├── README.md
 ├── content
+├── asset
 ├	├──how-data-travels.md
 ├	├──module-outline.md
 ├	├──how-devices-communicate-on-a-local.md
