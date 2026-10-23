@@ -45,6 +45,10 @@ Beginners with basic computer literacy. No prior experience assembling a compute
 ├── content
 ├	├──how-data-travels.md
 ├	├──module-outline.md
+├	├──how-devices-communicate-on-a-local.md
+├	├──computer-startup.md
+├	├──application-launch-professional.md
+├	├──how-firewalls-control-network-traffic.md
 ```
 
 ## Academic integrity note
