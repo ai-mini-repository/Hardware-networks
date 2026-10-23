@@ -276,14 +276,3 @@ Use arrows to show connection paths. Label each device with its function rather 
    https://commons.wikimedia.org/wiki/File:Home_LAN_local_area_network_example_diagram.png
 
 Check the licence and attribution requirements before redistributing or modifying each image. The photographs are examples of equipment; their physical appearance does not define every device of that type.
-
-## 14. Review Checklist
-
-Before treating this lesson as ready for the module, check that:
-
-- [ ] The difference between a modem/ONT, router, switch, and access point is clear.
-- [ ] The network diagram matches the written explanation.
-- [ ] The technical statements have been checked against the references.
-- [ ] The image credits and licences are retained.
-- [ ] A teammate has reviewed the lesson for accuracy and beginner accessibility.
-- [ ] The lesson status is updated in `module-outline.md` after the actual review.
